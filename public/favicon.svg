@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SC Monogram">
+  <defs>
+    <linearGradient id="scGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9b8ec4" />
+      <stop offset="100%" stop-color="#514477" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#scGrad)" />
+  <rect x="3" y="3" width="58" height="58" rx="13" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="1.5" />
+  <text
+    x="50%"
+    y="53%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="'Plus Jakarta Sans', system-ui, sans-serif"
+    font-weight="700"
+    font-size="26"
+    letter-spacing="-1"
+  >
+    SC
+  </text>
+</svg>

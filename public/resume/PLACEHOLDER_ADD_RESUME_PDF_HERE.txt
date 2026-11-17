@@ -1,0 +1,12 @@
+RESUME PDF PLACEHOLDER
+======================
+
+No binary PDF resume file was included in the initial source files.
+
+To enable direct static PDF downloads alongside the built-in interactive Resume Viewer & Print-to-PDF workflow:
+
+1. Place your exported resume PDF at:
+   public/resume/Soumik-Chakraborty-Resume.pdf
+
+2. Verify in the browser that the "Open Official PDF" / "Download PDF" action resolves cleanly.
+   Until a real PDF file is added here, the portfolio opens an accurate, ATS-clean Resume Viewer modal powered by your verified CV data with a working "Print / Save as PDF" button so visitors never hit a 404 or fake file.

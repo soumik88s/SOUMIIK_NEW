@@ -1,0 +1,1197 @@
+# SUPER MASTER PROMPT
+## Build a Premium, Production-Ready Multi-Page Portfolio for Soumik Chakraborty
+
+Act as a senior UI/UX designer, creative frontend engineer, full-stack developer, software architect, accessibility specialist, and technical SEO expert.
+
+Your mission is to transform my existing portfolio into a **world-class, production-ready personal portfolio website** that presents me as a strong Full-Stack Developer and AI Application Developer for software engineering internships, technical opportunities, and Google-level placement opportunities.
+
+Do not create an ordinary student portfolio or a generic developer template. Build a distinctive, polished, memorable digital identity that demonstrates my technical capabilities, real projects, problem-solving ability, and professional potential.
+
+The final result must be a fully functional website, not just a design concept, wireframe, prototype, or implementation plan.
+
+---
+
+# 1. PROJECT OBJECTIVE
+
+**Website owner:** Soumik Chakraborty
+
+**Primary objective:**
+Create a premium, professional, modern, responsive, multi-page developer portfolio that showcases:
+
+- Professional introduction and personal brand.
+- Full-stack development capabilities.
+- AI and machine learning application development.
+- Technical skills and computer science fundamentals.
+- Real-world software projects.
+- Internship and academic background.
+- Certifications and achievements.
+- Coding profiles and problem-solving experience.
+- Resume and professional contact information.
+
+**Target audience:**
+- Google and other leading technology companies.
+- Technical recruiters and hiring managers.
+- Software engineering interviewers.
+- Internship recruiters.
+- Developers and collaborators.
+- Open-source communities.
+
+The website should communicate technical competence, creativity, consistency, and engineering maturity.
+
+---
+
+# 2. PERSONAL INFORMATION — USE ACCURATELY
+
+Use the following information throughout the website.
+
+**Name:** Soumik Chakraborty
+
+**Professional title:** Full-Stack Developer | AI Application Developer
+
+**Academic qualification:** B.Tech in Computer Science and Business Systems
+
+**College:** Techno Main Salt Lake
+
+**Study period:** 2023–2027
+
+**CGPA:** 7.5
+
+**Location:** Bankura, West Bengal, India
+
+**Email:** soumikchakraborty88s@gmail.com
+
+**Phone:** 8927156464
+
+**GitHub:** https://github.com/soumik88s
+
+**LinkedIn:** https://www.linkedin.com/in/soumik-chakraborty-793647294/
+
+**HackerRank:** https://www.hackerrank.com/profile/soumikchakrabor5
+
+**Professional tagline:**
+
+"Building scalable full-stack web applications, AI-powered solutions & modern user experiences."
+
+**Professional introduction:**
+
+I am a Computer Science and Business Systems undergraduate passionate about building scalable full-stack applications and AI-powered software solutions. I enjoy transforming ideas into functional products through modern web technologies, backend engineering, database management, and intelligent application development.
+
+I continuously work on strengthening my computer science fundamentals, problem-solving abilities, and software development skills while building practical applications from concept to deployment.
+
+Do not invent additional personal details, employment history, qualifications, awards, or achievements.
+
+---
+
+# 3. EXISTING CV — PRIMARY SOURCE OF TRUTH
+
+Use my uploaded CV as the primary source for professional information.
+
+Read the complete CV before designing the website.
+
+Preserve the actual meaning of my experience, education, projects, skills, and certifications.
+
+Do not fabricate:
+- Work experience.
+- Internship responsibilities.
+- Company names.
+- Project technologies.
+- Project performance metrics.
+- User counts.
+- Awards.
+- Professional achievements.
+- Certification issuers.
+
+If something is missing, omit it or use a clearly marked placeholder.
+
+## Education
+
+**B.Tech — Computer Science and Business Systems**
+
+Techno Main Salt Lake  
+2023–2027  
+CGPA: 7.5
+
+**Higher Secondary**
+
+Bankura Christian Collegiate School  
+2023  
+Percentage: 77.5%
+
+**Secondary**
+
+Bankura Christian Collegiate School  
+2021  
+Percentage: 90%
+
+## Internship
+
+**Web Development Intern — InAmigos Foundation**
+
+August 2026 – September 2026
+
+Include the experience accurately:
+- Completed an AI Web Development Internship.
+- Worked on AI-enabled web applications.
+- Applied web development and AI concepts.
+- Participated in designing, developing, testing, and improving web solutions.
+- Developed collaboration and professional skills.
+
+Do not exaggerate the internship into a senior engineering role.
+
+## Technical Skills
+
+Organize skills into visually attractive categories.
+
+**Programming Languages**
+- Python
+- Java
+- JavaScript
+- TypeScript
+- C
+- C++
+
+**Frontend Development**
+- HTML5
+- CSS3
+- React.js
+- Next.js
+- Tailwind CSS
+
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases**
+- MongoDB
+- MySQL
+- PostgreSQL
+
+**AI / Machine Learning**
+- Natural Language Processing
+- Sentence-BERT
+- Retrieval-Augmented Generation
+- Semantic Search
+- Machine Learning fundamentals
+
+Only display advanced proficiency when supported by my actual project experience.
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Wireshark
+
+**Computer Science Fundamentals**
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+
+**Professional Skills**
+- Problem Solving
+- Communication
+- Statistics
+- Time Management
+- MS Excel
+
+## Certifications and Achievements
+
+Display these as a dedicated certification and achievement section.
+
+1. DBMS — NPTEL
+2. Data Structures and Algorithms — Udemy
+3. Problem Solving — HackerRank
+4. JavaScript — HackerRank
+5. HTML, CSS & JavaScript Projects — Udemy
+6. SQL — HackerRank
+7. Innovation Coding Competition — 2nd Place
+8. Machine Learning — NPTEL
+
+Machine Learning — NPTEL is completed. Do not mark it as in progress.
+
+## Languages
+
+- Bengali — Native
+- Hindi — Fluent
+- English — Fluent
+
+---
+
+# 4. PROJECT SHOWCASE — IMPORTANT
+
+My portfolio must showcase my actual projects.
+
+Give the project gallery a premium visual presentation with individual project cards, screenshots, technology badges, descriptions, and working links.
+
+Prioritize these five projects:
+
+## Project 1: NEXA AI
+
+**Project identity:** My AI-powered application platform.
+
+**Live Demo:** https://nexa-ai-f1y0.onrender.com
+
+**GitHub:** https://github.com/soumik88s/NEXA-AI
+
+**Tagline:** One Intelligence. Every Possibility.
+
+Present it as an AI application platform.
+
+Potential areas to highlight, subject to verification against the actual application:
+- AI-powered conversations.
+- Gemini integration.
+- Research-oriented responses and citations.
+- Dataset interaction.
+- CSV and JSON data analysis.
+
+Do not invent capabilities that cannot be verified from the project.
+
+## Project 2: CVFORGE
+
+**Live Demo:** https://cvforge-2.onrender.com/
+
+**GitHub:** https://github.com/soumik88s/CVFORGE
+
+Present CVFORGE as a resume-related software project.
+
+Inspect the repository and deployed application to identify its actual features, architecture, and technologies before writing its final description.
+
+Do not guess its technology stack.
+
+## Project 3: AI Career Intelligence System
+
+**Technologies:**
+- React
+- TypeScript
+- Python
+- FastAPI
+- NLP
+- Sentence-BERT
+- RAG
+- PostgreSQL
+
+**Description:**
+
+An AI-powered career intelligence platform designed to analyze resumes and support job matching.
+
+Features to represent when verified:
+- Resume extraction from PDF, DOCX, and TXT.
+- NLP-based skill identification.
+- Semantic similarity and job matching.
+- Skills, experience, and education-based matching.
+- ATS-oriented analysis.
+- SHAP explainability.
+- RAG-based career assistance.
+- React and TypeScript frontend.
+- FastAPI-based ML backend.
+
+## Project 4: DevConnect — Developer Collaboration Platform
+
+**Technologies:**
+- React
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+
+**Description:**
+
+A developer collaboration platform with project management, task tracking, developer profiles, and real-time communication.
+
+Highlight verified functionality:
+- Secure authentication.
+- Project management.
+- Task tracking.
+- Real-time chat and notifications.
+- REST API architecture.
+- JWT authentication.
+- Role-based access control.
+- Responsive interface.
+
+## Project 5: Online Scholarship Management System
+
+**Technologies:**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase Authentication
+
+**Description:**
+
+A scholarship management platform designed to simplify scholarship discovery, application submission, and application tracking.
+
+Highlight:
+- Scholarship browsing.
+- Application submission.
+- Document submission.
+- Application status tracking.
+- Firebase authentication.
+- Role-based access for applicants, administrators, and reviewers.
+- Administrative approval and rejection workflows.
+
+## Additional projects
+
+If verified project assets and information are available, include:
+- Sharodiya 2026.
+- CGPA Calculator.
+
+Do not allow secondary projects to overpower the five primary projects.
+
+## Project card requirements
+
+Every project card should include:
+- Project image or screenshot.
+- Project name.
+- Short, meaningful description.
+- Technology stack.
+- Category.
+- Live Demo button.
+- GitHub button.
+- Hover animation.
+- Subtle glass effect.
+- Accessible keyboard interaction.
+
+Include project filtering:
+- All
+- Full Stack
+- AI / ML
+- Web Applications
+
+Project links must work. Do not use `#` as a fake destination.
+
+---
+
+# 5. DESIGN DIRECTION — PREMIUM GLASSMORPHISM
+
+Create a distinctive design system.
+
+**Primary style:** Modern glassmorphism with frosted-glass surfaces.
+
+**Visual tone:** Premium, minimal, creative, friendly, and technically sophisticated.
+
+**Color palette:**
+
+- Lavender: `#9b8ec4`
+- Soft Purple: `#7c6daa`
+- Light Background: `#F5F3FF`
+- Deep Purple: `#514477`
+- Supporting light surfaces: translucent white.
+- Supporting dark surfaces: deep charcoal and muted purple.
+
+Use CSS custom properties for all design tokens.
+
+Example:
+
+```css
+:root {
+  --color-lavender: #9b8ec4;
+  --color-purple: #7c6daa;
+  --color-background: #F5F3FF;
+  --color-text: #211d32;
+  --color-muted: #716b83;
+  --glass-background: rgba(255, 255, 255, 0.62);
+  --glass-border: rgba(124, 109, 170, 0.18);
+}
+```
+
+Design characteristics:
+- Frosted glass cards.
+- Background blur.
+- Transparent layered surfaces.
+- Soft gradients.
+- Subtle purple shadows.
+- Elegant borders.
+- Smooth transitions.
+- Refined typography.
+- Generous negative space.
+- Balanced section spacing.
+- Strong visual hierarchy.
+
+Avoid:
+- Excessive neon colors.
+- Overloaded gradients.
+- Unnecessary decorative elements.
+- Excessive animation.
+- Generic portfolio templates.
+- Cluttered layouts.
+- Fake statistics.
+- Fake testimonials.
+
+Support both light and dark themes while preserving the lavender and soft-purple visual identity.
+
+---
+
+# 6. WEBSITE ARCHITECTURE — 3 TO 5 PAGES
+
+Build a proper multi-page portfolio with consistent shared components.
+
+Recommended five-page architecture:
+
+### PAGE 1 — HOME
+
+Purpose: Make a powerful first impression.
+
+Include:
+- Animated hero background.
+- Personal introduction.
+- Professional title.
+- Short introduction.
+- Availability indicator, only if accurate.
+- View Projects CTA.
+- Download Resume CTA.
+- Contact CTA.
+- Featured project previews.
+- Animated statistics.
+- Short skills overview.
+- Latest updates or featured work.
+- Strong footer.
+
+Hero headline example:
+
+"Turning Ideas Into Intelligent Digital Experiences."
+
+Supporting text:
+
+"I'm Soumik Chakraborty — a Full-Stack Developer and AI Application Developer passionate about building useful, scalable, and intelligent software."
+
+Use a beautiful animated gradient background with layered glass elements.
+
+### PAGE 2 — ABOUT
+
+Include:
+- Professional introduction.
+- Personal development journey.
+- Education.
+- Internship experience.
+- Technical interests.
+- Career goals.
+- Languages.
+- Core computer science knowledge.
+
+Use a timeline for education and internship.
+
+### PAGE 3 — PROJECTS
+
+Include:
+- Five primary projects.
+- Project filters.
+- Masonry / Pinterest-inspired layout.
+- Project details.
+- Technology tags.
+- Live links.
+- GitHub links.
+- Image gallery or lightbox.
+
+Create detailed project views or expandable project details.
+
+### PAGE 4 — SKILLS & EXPERIENCE
+
+Include:
+- Programming languages.
+- Frontend development.
+- Backend development.
+- Database technologies.
+- AI / ML technologies.
+- Development tools.
+- Computer science fundamentals.
+- Internship experience.
+- Certifications.
+- Achievements.
+
+Use attractive skill cards and categorized layouts rather than meaningless progress bars.
+
+### PAGE 5 — CONTACT
+
+Include:
+- Friendly introduction.
+- Contact form.
+- Email.
+- Phone.
+- LinkedIn.
+- GitHub.
+- HackerRank.
+- Google Maps embed showing an appropriate general location, not a private address.
+- Newsletter subscription if a real backend or provider is configured.
+- Clear contact CTA.
+
+The hamburger menu should provide access to every page.
+
+If a five-page implementation is impractical in the selected hosting environment, use a clean four-page structure rather than creating incomplete pages.
+
+---
+
+# 7. NAVIGATION — HAMBURGER ONLY
+
+Use a hidden-navigation design.
+
+Requirements:
+- No permanently visible horizontal navigation links.
+- A clean hamburger menu in the top glass navbar.
+- Animated menu opening and closing.
+- Menu overlay or floating glass panel.
+- Clear page links.
+- Active page indicator.
+- Escape-key support.
+- Click-outside-to-close behavior.
+- Keyboard navigation.
+- Proper focus management.
+- Mobile-friendly touch targets.
+
+Navbar should contain:
+- SC logo or monogram.
+- Soumik Chakraborty branding.
+- Theme toggle.
+- Hamburger menu.
+
+Keep the navbar sticky with a subtle frosted-glass appearance.
+
+---
+
+# 8. LAYOUT AND VISUAL COMPOSITION
+
+Use a combination of:
+- Modern grid layouts.
+- Masonry / Pinterest-style project layouts.
+- Responsive card systems.
+- Asymmetric hero composition.
+- Floating glass panels.
+- Layered backgrounds.
+- Balanced content widths.
+
+Use consistent section spacing and a responsive container system.
+
+Avoid making every section look identical.
+
+Give each page its own visual character while maintaining a consistent design language.
+
+---
+
+# 9. ANIMATION AND INTERACTION SYSTEM
+
+Implement polished motion design.
+
+Required:
+- Scroll-triggered fade-in.
+- Smooth entrance animations.
+- Parallax depth layers.
+- Subtle floating objects.
+- Animated gradient background.
+- Card hover elevation.
+- Button micro-interactions.
+- Page transitions.
+- Animated statistics.
+- Image carousel transitions.
+- Accordion transitions.
+- Hamburger menu animation.
+- Loading/preloader animation.
+- Back-to-top animation.
+
+Use Framer Motion if using the recommended React stack, or lightweight CSS/JavaScript alternatives.
+
+Respect `prefers-reduced-motion`.
+
+Animations must never interfere with readability, navigation, or accessibility.
+
+---
+
+# 10. INTERACTIVE FEATURES — IMPLEMENTATION REQUIREMENTS
+
+Implement the following features where they make sense for a developer portfolio.
+
+### 1. Responsive hamburger menu
+Fully functional desktop and mobile menu.
+
+### 2. Dark / Light mode
+- Toggle between themes.
+- Persist the selection using local storage.
+- Respect system preference on first visit.
+- Maintain readable contrast.
+
+### 3. Smooth navigation
+Use proper route navigation and smooth in-page scrolling where appropriate.
+
+### 4. Scroll-triggered fade-in
+Use Intersection Observer or a motion library.
+
+### 5. Contact form with validation
+Validate:
+- Name.
+- Email.
+- Subject.
+- Message.
+
+Show accessible success and error feedback.
+
+Do not pretend that a message was sent if there is no working email service or backend.
+
+Provide a clear integration point for a real contact service.
+
+### 6. Testimonial / image carousel
+Use real testimonials only when supplied.
+
+If no genuine testimonials exist, use a project screenshot or featured-work carousel instead.
+
+Never fabricate recommendations from recruiters, clients, or colleagues.
+
+### 7. Pricing section
+A pricing table is not normally appropriate for an employment-focused portfolio.
+
+Implement it only if it serves a clearly defined freelance-services page or service offering. Otherwise, replace it with a professional "What I Build" / "Services" section.
+
+Do not invent prices or claim services that have not been confirmed.
+
+### 8. FAQ accordion
+Include practical questions such as:
+- What technologies do you work with?
+- What types of applications do you build?
+- Are you open to internships?
+- Where can I view your projects?
+- How can I contact you?
+
+Use honest answers.
+
+### 9. Back-to-top button
+Show after meaningful scrolling.
+
+### 10. Parallax scrolling
+Use subtle depth layers and disable or reduce movement on mobile and for reduced-motion preferences.
+
+### 11. Animated statistics
+Use only verified figures.
+
+Possible verified academic or portfolio figures:
+- CGPA: 7.5.
+- Projects: calculate from the actual projects displayed.
+- Certifications: 8 listed items, with the competition achievement clearly distinguished from certifications.
+- Problems solved: only show a number if verified from the current coding profile.
+
+Do not invent user counts, downloads, traffic, or experience years.
+
+### 12. Image lightbox
+Allow project images to open in an accessible lightbox.
+
+Support:
+- Escape to close.
+- Previous/next navigation.
+- Keyboard interaction.
+- Descriptive alternative text.
+
+### 13. Newsletter subscription
+Include only with a real subscription backend or provider.
+
+Otherwise, make it a clearly marked integration-ready feature and do not simulate successful subscription.
+
+### 14. Social media links
+Use real profile URLs.
+
+Use Lucide or Font Awesome icons with accessible labels.
+
+### 15. Google Maps
+Embed a general location map for Bankura, West Bengal, India.
+
+Do not expose a private residential address.
+
+### 16. Preloader
+Use a short branded SC loading animation.
+
+Do not keep visitors waiting unnecessarily.
+
+### 17. Sticky CTA
+Provide a subtle contact or let's-connect CTA.
+
+Ensure it does not cover important content or mobile controls.
+
+### 18. Custom cursor
+Use only as an optional desktop enhancement.
+
+Disable it for touch devices and preserve the native cursor for accessibility.
+
+---
+
+# 11. FOOTER DESIGN
+
+Create a premium multi-column footer.
+
+**Column 1 — Brand**
+- SC logo.
+- Soumik Chakraborty.
+- Short professional introduction.
+
+**Column 2 — Quick Links**
+- Home.
+- About.
+- Projects.
+- Skills.
+- Contact.
+
+**Column 3 — Explore**
+- Featured projects.
+- Resume.
+- Certifications.
+- GitHub.
+
+**Column 4 — Contact**
+- Email.
+- Phone.
+- Location.
+
+**Social links**
+- GitHub.
+- LinkedIn.
+- HackerRank.
+
+Include:
+- Copyright year generated dynamically.
+- Back-to-top link.
+- Subtle glass effect.
+- Responsive stacking.
+
+---
+
+# 12. TECHNOLOGY STACK
+
+Use a clean, maintainable React application.
+
+**Core frontend**
+- React.
+- JSX.
+- JavaScript.
+- React Router for multi-page navigation.
+
+**Styling**
+- CSS Modules or styled-components.
+- CSS custom properties.
+- Responsive CSS Grid and Flexbox.
+
+**Animation**
+- Framer Motion or CSS animations.
+- Intersection Observer for scroll-triggered effects.
+
+**Icons**
+- Lucide React or Font Awesome.
+
+**Typography**
+- Google Fonts.
+- Manrope or DM Sans, or another carefully selected modern font.
+
+**Optional 3D**
+- Use Three.js / React Three Fiber only if it genuinely improves the experience and performs well.
+
+Do not introduce unnecessary dependencies.
+
+Do not mix TypeScript into the main implementation unless there is a compelling reason. The requested primary implementation is React with JSX.
+
+---
+
+# 13. SINGLE HTML FILE REQUIREMENT
+
+The original visual specification also requests a single HTML file.
+
+Resolve this without compromising the production React architecture.
+
+**Primary deliverable:**
+A properly structured, production-ready React application with separate source files and reusable components.
+
+**Additional deliverable, if practical:**
+A standalone `portfolio-standalone.html` containing a simplified, functional version of the design using HTML, CSS, and JavaScript.
+
+The standalone file should:
+- Include semantic HTML5.
+- Include CSS custom properties.
+- Include responsive styles.
+- Include Google Fonts.
+- Include icons.
+- Include essential interactions.
+- Include SEO metadata.
+
+Do not cram the full production React application into a single HTML file merely to satisfy the standalone-file preference.
+
+---
+
+# 14. RESPONSIVE DESIGN
+
+Test and optimize for:
+
+**Desktop**
+- 1440px.
+- 1280px.
+- 1024px.
+
+**Tablet**
+- 768px.
+- 820px.
+
+**Mobile**
+- 430px.
+- 390px.
+- 375px.
+- 320px.
+
+Requirements:
+- No horizontal overflow.
+- No clipped text.
+- No broken navigation.
+- Properly scaled typography.
+- Touch-friendly controls.
+- Responsive masonry/grid.
+- Correct image sizing.
+- Consistent spacing.
+- Functional hamburger menu.
+- Readable dark and light themes.
+
+Use mobile-first CSS principles.
+
+---
+
+# 15. ACCESSIBILITY — WCAG
+
+Target WCAG 2.2 AA.
+
+Implement:
+- Semantic HTML5 landmarks.
+- Correct heading hierarchy.
+- Keyboard navigation.
+- Visible focus states.
+- Sufficient color contrast.
+- Accessible form labels.
+- Form error announcements.
+- Alt text for images.
+- ARIA only where necessary.
+- Accessible modal and accordion behavior.
+- Reduced-motion support.
+- Touch target sizing.
+- Screen-reader-friendly navigation.
+
+Do not sacrifice accessibility for visual effects.
+
+---
+
+# 16. SEO AND PERFORMANCE
+
+Implement:
+- Unique page titles.
+- Meta descriptions.
+- Canonical URL placeholder.
+- Open Graph metadata.
+- Twitter/X card metadata.
+- Favicon.
+- Semantic page structure.
+- Descriptive image alt text.
+- Structured data for a Person, where appropriate.
+- Sitemap and robots.txt guidance.
+- Optimized assets.
+- Lazy-loaded images.
+- Code splitting where appropriate.
+- Efficient animations.
+- Minimal layout shift.
+- Production build optimization.
+
+Do not claim a perfect Lighthouse score without actually testing it.
+
+---
+
+# 17. SECURITY AND RELIABILITY
+
+Follow secure frontend development practices.
+
+Requirements:
+- Do not expose API keys.
+- Do not put private credentials in frontend source.
+- Validate form input.
+- Sanitize untrusted content where appropriate.
+- Use HTTPS for external resources.
+- Avoid unsafe HTML injection.
+- Handle loading and error states.
+- Use meaningful fallback states.
+- Avoid broken external links.
+- Avoid fake form submissions.
+- Avoid fake newsletter confirmations.
+
+If a backend is required, document the API integration points.
+
+---
+
+# 18. SOURCE CODE ARCHITECTURE
+
+Use a clean, reusable project structure similar to:
+
+```text
+soumik-portfolio/
+│
+├── public/
+│   ├── favicon.svg
+│   ├── images/
+│   ├── resume/
+│   │   └── Soumik-Chakraborty-Resume.pdf
+│   ├── robots.txt
+│   └── sitemap.xml
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar/
+│   │   ├── HamburgerMenu/
+│   │   ├── Footer/
+│   │   ├── ThemeToggle/
+│   │   ├── ProjectCard/
+│   │   ├── SkillCard/
+│   │   ├── StatCounter/
+│   │   ├── Carousel/
+│   │   ├── Accordion/
+│   │   ├── Lightbox/
+│   │   ├── ContactForm/
+│   │   ├── BackToTop/
+│   │   ├── Preloader/
+│   │   └── ScrollReveal/
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Projects.jsx
+│   │   ├── SkillsExperience.jsx
+│   │   └── Contact.jsx
+│   │
+│   ├── data/
+│   │   ├── personal.js
+│   │   ├── projects.js
+│   │   ├── skills.js
+│   │   ├── education.js
+│   │   └── certifications.js
+│   │
+│   ├── hooks/
+│   │   ├── useTheme.js
+│   │   ├── useScrollReveal.js
+│   │   └── useParallax.js
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   ├── variables.css
+│   │   └── animations.css
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── portfolio-standalone.html
+├── index.html
+├── package.json
+├── README.md
+└── .gitignore
+```
+
+Adjust the structure if a better architecture is justified.
+
+Use reusable components and separate content data from UI code.
+
+---
+
+# 19. RESUME INTEGRATION
+
+Include a prominent Resume button.
+
+Use my actual resume PDF if it is available in the supplied project files or attachments.
+
+Requirements:
+- Download Resume.
+- View Resume.
+- Correct filename.
+- Responsive behavior.
+- No fake resume file.
+- No broken links.
+
+If the actual PDF is unavailable, create a clearly identified placeholder location and explain how to add the PDF.
+
+---
+
+# 20. PROJECT REPOSITORY AND DEPLOYMENT AUDIT
+
+If I provide my existing portfolio ZIP, inspect it before making changes.
+
+If repository URLs are accessible, inspect the actual project repositories and deployed applications for:
+- Project functionality.
+- Technology stack.
+- Screenshots.
+- Existing assets.
+- README information.
+- Deployment status.
+
+Prioritize these repositories:
+- https://github.com/soumik88s/NEXA-AI
+- https://github.com/soumik88s/CVFORGE
+
+Do not blindly trust old descriptions if the actual source code contradicts them.
+
+Preserve useful existing assets and accurate project information.
+
+Do not delete important working features without a clear reason.
+
+---
+
+# 21. IMPLEMENTATION WORKFLOW
+
+Follow this sequence.
+
+### PHASE 1 — AUDIT
+
+- Inspect all provided source files.
+- Read the complete CV.
+- Inspect project repositories when available.
+- Identify existing assets and resume.
+- Check current dependencies.
+- Identify broken functionality.
+- Record any missing information.
+
+### PHASE 2 — DESIGN SYSTEM
+
+- Define the lavender/purple palette.
+- Create light and dark themes.
+- Define typography.
+- Define spacing and layout tokens.
+- Design glass components.
+- Define responsive breakpoints.
+- Establish animation rules.
+
+### PHASE 3 — BUILD
+
+- Create the React application.
+- Implement routing.
+- Build shared layout components.
+- Build all five pages.
+- Add project data.
+- Add skills and education.
+- Integrate real resume.
+- Implement all applicable interactions.
+
+### PHASE 4 — FUNCTIONALITY
+
+Test:
+- Hamburger menu.
+- Theme toggle.
+- Navigation.
+- Project filters.
+- Project links.
+- Resume download.
+- Contact validation.
+- FAQ accordion.
+- Carousel.
+- Lightbox.
+- Newsletter integration state.
+- Back-to-top.
+- Responsive layout.
+- Keyboard accessibility.
+
+### PHASE 5 — QUALITY ASSURANCE
+
+Run:
+- Dependency checks.
+- Production build.
+- Browser testing.
+- Responsive testing.
+- Accessibility checks.
+- Link checks.
+- Console error checks.
+
+Fix all critical errors before delivery.
+
+### PHASE 6 — DEPLOYMENT
+
+Prepare the application for deployment on Vercel or Render.
+
+Provide:
+- Installation instructions.
+- Development commands.
+- Production build commands.
+- Deployment instructions.
+- Environment variable documentation, if required.
+- README documentation.
+
+---
+
+# 22. FINAL DELIVERABLES
+
+Provide the complete working project.
+
+Required:
+1. Full React JSX source code.
+2. All CSS or styled-components.
+3. All reusable components.
+4. All five pages, or four complete pages if justified.
+5. Responsive hamburger menu.
+6. Light/dark mode.
+7. Project gallery.
+8. Contact form with validation.
+9. FAQ section.
+10. Carousel or featured-project slider.
+11. Lightbox.
+12. Animated statistics.
+13. Back-to-top button.
+14. Parallax effects.
+15. SEO metadata.
+16. Accessibility implementation.
+17. Resume integration.
+18. README.
+19. Deployment instructions.
+20. Testing report.
+
+Additional:
+21. Standalone HTML version, if practical.
+22. Screenshots of the completed website.
+23. List of integrations that require credentials or backend configuration.
+
+Do not provide incomplete snippets when the full source project is requested.
+
+---
+
+# 23. STRICT QUALITY RULES
+
+- Do not stop after creating a design plan.
+- Do not stop after generating a homepage.
+- Do not create dead buttons.
+- Do not use fake contact submissions.
+- Do not invent testimonials.
+- Do not invent project details.
+- Do not invent statistics.
+- Do not use fake social links.
+- Do not leave broken navigation.
+- Do not use placeholder text where real CV information is available.
+- Do not create unnecessary animations.
+- Do not sacrifice performance for effects.
+- Do not ignore mobile layouts.
+- Do not expose API keys.
+- Do not use a generic template without customization.
+- Do not claim features are complete unless they have been tested.
+
+Every visible button must perform its advertised action or clearly indicate that an integration still needs configuration.
+
+---
+
+# 24. FINAL DESIGN EXPECTATION
+
+The final website should feel like a premium personal brand created by a professional product design and engineering team.
+
+The first screen should immediately communicate:
+- Who I am.
+- What I build.
+- What technologies I work with.
+- Why someone should explore my projects.
+- How to contact me.
+
+The project section should demonstrate real engineering work.
+
+The About and Experience sections should establish credibility.
+
+The Skills section should demonstrate technical breadth without exaggeration.
+
+The Contact section should make professional communication easy.
+
+**Final objective:**
+
+Build a visually distinctive, technically reliable, accessible, responsive, production-ready portfolio that presents Soumik Chakraborty as a serious Full-Stack Developer and AI Application Developer ready for professional software engineering opportunities.
+
+Start by auditing the supplied CV, existing portfolio source ZIP, and available project repositories. Then implement the complete website, test it, fix issues, and deliver the finished project.
+
+**Do not merely explain how to build it. Build it.**

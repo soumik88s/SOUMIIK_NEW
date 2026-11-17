@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Soumik Chakraborty — Full-Stack &amp; AI Application Developer</title>
+    <meta
+      name="description"
+      content="Standalone portfolio of Soumik Chakraborty, B.Tech CSBS undergraduate building full-stack web applications and AI-powered solutions."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Soumik Chakraborty — Full-Stack &amp; AI Application Developer" />
+    <meta
+      property="og:description"
+      content="Explore NEXA AI, CVFORGE, AI Career Intelligence System, DevConnect, Online Scholarship Management System, skills, and verified credentials."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --color-lavender: #9b8ec4;
+        --color-purple: #7c6daa;
+        --color-deep-purple: #514477;
+        --color-background: #f5f3ff;
+        --color-surface: #ffffff;
+        --color-text: #211d32;
+        --color-muted: #5a5370;
+        --glass-background: rgba(255, 255, 255, 0.72);
+        --glass-border: rgba(124, 109, 170, 0.22);
+      }
+
+      .dark {
+        --color-background: #12101b;
+        --color-surface: #1b1728;
+        --color-text: #f3f0ff;
+        --color-muted: #b8b0d0;
+        --color-deep-purple: #cfc6ee;
+        --glass-background: rgba(27, 23, 40, 0.78);
+        --glass-border: rgba(155, 142, 196, 0.24);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: 'DM Sans', system-ui, sans-serif;
+        background: var(--color-background);
+        color: var(--color-text);
+        line-height: 1.6;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+        margin: 0;
+      }
+
+      .container {
+        max-width: 1120px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+
+      .glass {
+        background: var(--glass-background);
+        border: 1px solid var(--glass-border);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        border-radius: 16px;
+      }
+
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        background: var(--glass-background);
+        border-bottom: 1px solid var(--glass-border);
+        backdrop-filter: blur(18px);
+      }
+
+      .nav-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 64px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+        color: var(--color-text);
+        font-weight: 700;
+      }
+
+      .monogram {
+        width: 36px;
+        height: 36px;
+        border-radius: 10px;
+        display: grid;
+        place-items: center;
+        background: linear-gradient(135deg, #9b8ec4, #514477);
+        color: #fff;
+        font-size: 14px;
+      }
+
+      .actions {
+        display: flex;
+        gap: 10px;
+      }
+
+      button, .btn {
+        cursor: pointer;
+        border-radius: 10px;
+        padding: 10px 16px;
+        font: inherit;
+        font-size: 14px;
+        font-weight: 600;
+        border: 1px solid var(--glass-border);
+        background: var(--color-surface);
+        color: var(--color-text);
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+      }
+
+      .btn-primary {
+        background: #514477;
+        color: #ffffff;
+        border-color: transparent;
+      }
+
+      .dark .btn-primary {
+        background: #cfc6ee;
+        color: #12101b;
+      }
+
+      main {
+        padding: 48px 0;
+      }
+
+      .section {
+        margin-top: 56px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+      }
+
+      .card {
+        padding: 24px;
+      }
+
+      .muted {
+        color: var(--color-muted);
+      }
+
+      .drawer {
+        position: fixed;
+        inset: 0;
+        background: rgba(18, 16, 27, 0.55);
+        display: none;
+        justify-content: flex-end;
+        z-index: 30;
+      }
+
+      .drawer.open {
+        display: flex;
+      }
+
+      .drawer-panel {
+        width: min(360px, 100%);
+        height: 100%;
+        padding: 24px;
+        background: var(--color-surface);
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .drawer-panel a {
+        text-decoration: none;
+        color: var(--color-text);
+        padding: 10px 12px;
+        border-radius: 10px;
+        border: 1px solid var(--glass-border);
+      }
+
+      footer {
+        border-top: 1px solid var(--glass-border);
+        padding: 32px 0;
+        margin-top: 64px;
+        font-size: 13px;
+        color: var(--color-muted);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container nav-inner">
+        <a href="#top" class="brand">
+          <span class="monogram">SC</span>
+          <span>Soumik Chakraborty</span>
+        </a>
+        <div class="actions">
+          <button id="themeBtn" type="button" aria-label="Toggle theme">Theme</button>
+          <button id="menuBtn" type="button" aria-label="Open menu">Menu</button>
+        </div>
+      </div>
+    </header>
+
+    <div id="drawer" class="drawer" role="dialog" aria-modal="true" aria-label="Navigation">
+      <div class="drawer-panel">
+        <button id="closeDrawer" type="button">Close Menu</button>
+        <a href="#top">Home</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills &amp; Credentials</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+
+    <main id="top" class="container">
+      <section class="glass card">
+        <p class="muted" style="font-size:13px;margin:0 0 8px;">Full-Stack Developer | AI Application Developer</p>
+        <h1 style="font-size:clamp(2rem,4vw,3rem);line-height:1.12;">Turning Ideas Into Intelligent Digital Experiences.</h1>
+        <p class="muted" style="max-width:65ch;">
+          I'm Soumik Chakraborty — a Computer Science and Business Systems undergraduate at Techno Main Salt Lake (2023–2027, CGPA 7.5) building scalable full-stack web applications and AI-powered solutions.
+        </p>
+        <div class="actions" style="margin-top:20px;flex-wrap:wrap;">
+          <a href="#projects" class="btn btn-primary">View Projects</a>
+          <a href="mailto:soumikchakraborty88s@gmail.com" class="btn">Email Me</a>
+          <a href="https://github.com/soumik88s" target="_blank" rel="noopener noreferrer" class="btn">GitHub</a>
+        </div>
+      </section>
+
+      <section id="projects" class="section">
+        <h2>Primary Projects</h2>
+        <div class="grid">
+          <article class="glass card">
+            <h3>NEXA AI</h3>
+            <p class="muted">AI-powered application platform with Gemini integration, research citations, and CSV/JSON dataset analysis.</p>
+            <div class="actions">
+              <a href="https://nexa-ai-f1y0.onrender.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Live Demo</a>
+              <a href="https://github.com/soumik88s/NEXA-AI" target="_blank" rel="noopener noreferrer" class="btn">GitHub</a>
+            </div>
+          </article>
+          <article class="glass card">
+            <h3>CVFORGE</h3>
+            <p class="muted">AI-powered ATS-friendly CV builder and optimizer with job-description analysis and PDF/DOCX export.</p>
+            <div class="actions">
+              <a href="https://cvforge-2.onrender.com/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Live Demo</a>
+              <a href="https://github.com/soumik88s/CVFORGE" target="_blank" rel="noopener noreferrer" class="btn">GitHub</a>
+            </div>
+          </article>
+          <article class="glass card">
+            <h3>AI Career Intelligence System</h3>
+            <p class="muted">Explainable AI career platform using Python, FastAPI, Sentence-BERT, SHAP, RAG, and PostgreSQL.</p>
+            <div class="actions">
+              <a href="https://ai-career-intelligence-system-deployment.onrender.com/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Live Demo</a>
+              <a href="https://github.com/soumik88s/ai-career-intelligence-system-deployment-fixed" target="_blank" rel="noopener noreferrer" class="btn">GitHub</a>
+            </div>
+          </article>
+          <article class="glass card">
+            <h3>DevConnect</h3>
+            <p class="muted">Collaborative developer platform with JWT authentication, task tracking, and real-time Socket.IO messaging.</p>
+            <div class="actions">
+              <a href="https://devconnect-kqgn.onrender.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Live Demo</a>
+              <a href="https://github.com/soumik88s/Devconnect" target="_blank" rel="noopener noreferrer" class="btn">GitHub</a>
+            </div>
+          </article>
+          <article class="glass card">
+            <h3>Online Scholarship Management System</h3>
+            <p class="muted">MERN and Firebase Authentication platform with applicant, reviewer, and admin workflows.</p>
+            <div class="actions">
+              <a href="https://github.com/soumik88s/Online-Scholarship-Management-System" target="_blank" rel="noopener noreferrer" class="btn">GitHub</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="skills" class="section">
+        <h2>Education, Internship &amp; Credentials</h2>
+        <div class="grid">
+          <div class="glass card">
+            <h3>Education</h3>
+            <p class="muted">B.Tech CSBS — Techno Main Salt Lake (2023–2027) · CGPA: 7.5<br />Higher Secondary — Bankura Christian Collegiate School (2023) · 77.5%<br />Secondary — Bankura Christian Collegiate School (2021) · 90%</p>
+          </div>
+          <div class="glass card">
+            <h3>Internship</h3>
+            <p class="muted"><strong>Web Development Intern — InAmigos Foundation</strong><br />August 2026 – September 2026<br />Completed an AI Web Development Internship working on AI-enabled web applications and collaborative web solutions.</p>
+          </div>
+          <div class="glass card">
+            <h3>Certifications &amp; Award</h3>
+            <p class="muted">Machine Learning (NPTEL, Completed) · DBMS (NPTEL) · DSA (Udemy) · Problem Solving, JavaScript, SQL (HackerRank) · HTML, CSS &amp; JS Projects (Udemy) · Innovation Coding Competition — 2nd Place</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section glass card">
+        <h2>Contact</h2>
+        <p class="muted">Bankura, West Bengal, India · soumikchakraborty88s@gmail.com · 8927156464</p>
+        <div class="actions">
+          <a href="mailto:soumikchakraborty88s@gmail.com" class="btn btn-primary">Send Email</a>
+          <a href="https://www.linkedin.com/in/soumik-chakraborty-793647294/" target="_blank" rel="noopener noreferrer" class="btn">LinkedIn</a>
+          <a href="https://www.hackerrank.com/profile/soumikchakrabor5" target="_blank" rel="noopener noreferrer" class="btn">HackerRank</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        &copy; <span id="year"></span> Soumik Chakraborty. Standalone HTML Edition.
+      </div>
+    </footer>
+
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+      const drawer = document.getElementById('drawer');
+      document.getElementById('menuBtn').addEventListener('click', () => drawer.classList.add('open'));
+      document.getElementById('closeDrawer').addEventListener('click', () => drawer.classList.remove('open'));
+      drawer.addEventListener('click', (e) => {
+        if (e.target === drawer || e.target.tagName === 'A') drawer.classList.remove('open');
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') drawer.classList.remove('open');
+      });
+      document.getElementById('themeBtn').addEventListener('click', () => {
+        document.documentElement.classList.toggle('dark');
+      });
+    </script>
+  </body>
+</html>

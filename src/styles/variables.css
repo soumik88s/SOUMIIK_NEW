@@ -1,0 +1,39 @@
+:root {
+  --color-lavender: #9b8ec4;
+  --color-purple: #7c6daa;
+  --color-deep-purple: #514477;
+  --color-background: #f5f3ff;
+  --color-surface: #ffffff;
+  --color-surface-elevated: rgba(255, 255, 255, 0.86);
+  --color-text: #211d32;
+  --color-muted: #5a5370;
+  --glass-background: rgba(255, 255, 255, 0.68);
+  --glass-border: rgba(124, 109, 170, 0.2);
+  --glass-shadow: 0 12px 36px -14px rgba(81, 68, 119, 0.16);
+  --mesh-a: rgba(155, 142, 196, 0.28);
+  --mesh-b: rgba(124, 109, 170, 0.16);
+  --mesh-c: rgba(255, 255, 255, 0.72);
+  --focus-ring: #514477;
+
+  --font-display: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-body: 'DM Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+.dark {
+  --color-lavender: #b4a7de;
+  --color-purple: #9b8ec4;
+  --color-deep-purple: #cfc6ee;
+  --color-background: #12101b;
+  --color-surface: #1b1728;
+  --color-surface-elevated: rgba(31, 26, 46, 0.88);
+  --color-text: #f3f0ff;
+  --color-muted: #b8b0d0;
+  --glass-background: rgba(27, 23, 40, 0.72);
+  --glass-border: rgba(155, 142, 196, 0.22);
+  --glass-shadow: 0 18px 42px -14px rgba(0, 0, 0, 0.52);
+  --mesh-a: rgba(124, 109, 170, 0.22);
+  --mesh-b: rgba(81, 68, 119, 0.24);
+  --mesh-c: rgba(27, 23, 40, 0.6);
+  --focus-ring: #b4a7de;
+}
