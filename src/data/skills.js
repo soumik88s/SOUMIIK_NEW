@@ -7,7 +7,6 @@ export const SKILL_CATEGORIES = [
       { name: 'Python', note: 'FastAPI & ML pipelines' },
       { name: 'JavaScript', note: 'Full-stack web apps' },
       { name: 'TypeScript', note: 'Typed React & Node services' },
-      { name: 'Java', note: 'OOP & DSA practice' },
       { name: 'C', note: 'Systems fundamentals' },
       { name: 'C++', note: 'Algorithms & problem solving' },
     ],
@@ -18,10 +17,9 @@ export const SKILL_CATEGORIES = [
     context: 'Building responsive, accessible interfaces with modern component architectures.',
     items: [
       { name: 'React.js', note: 'Applied across 5+ shipped apps' },
-      { name: 'Next.js', note: 'Modern React applications' },
       { name: 'Tailwind CSS', note: 'Design systems & responsive UI' },
-      { name: 'HTML5', note: 'Semantic accessible markup' },
-      { name: 'CSS3', note: 'Custom properties, Grid & Flex' },
+      { name: 'HTML', note: 'Semantic accessible markup' },
+      { name: 'CSS', note: 'Custom properties, Grid & Flex' },
     ],
   },
   {
@@ -40,7 +38,6 @@ export const SKILL_CATEGORIES = [
     context: 'Modeling relational and document schemas for production full-stack projects.',
     items: [
       { name: 'MongoDB', note: 'DevConnect & Scholarship System' },
-      { name: 'PostgreSQL', note: 'NEXA AI, CVFORGE & Career Intel' },
       { name: 'MySQL', note: 'Relational modeling & SQL' },
     ],
   },
@@ -51,7 +48,6 @@ export const SKILL_CATEGORIES = [
     items: [
       { name: 'Natural Language Processing', note: 'Skill & resume parsing' },
       { name: 'Sentence-BERT', note: 'Dense semantic similarity' },
-      { name: 'Retrieval-Augmented Generation', note: 'Grounded career & research Q&A' },
       { name: 'Semantic Search', note: 'Role-to-resume matching' },
       { name: 'Machine Learning Fundamentals', note: 'NPTEL certified & applied' },
     ],
@@ -64,7 +60,6 @@ export const SKILL_CATEGORIES = [
       { name: 'Git', note: 'Branching & release history' },
       { name: 'GitHub', note: 'Repositories & collaboration' },
       { name: 'VS Code', note: 'Primary development IDE' },
-      { name: 'Wireshark', note: 'Packet & network inspection' },
     ],
   },
   {
@@ -75,8 +70,6 @@ export const SKILL_CATEGORIES = [
       { name: 'Data Structures & Algorithms', note: 'Problem solving & complexity' },
       { name: 'Object-Oriented Programming', note: 'Modular system design' },
       { name: 'Database Management Systems', note: 'NPTEL certified' },
-      { name: 'Operating Systems', note: 'Processes, memory & concurrency' },
-      { name: 'Computer Networks', note: 'Protocols & packet analysis' },
       { name: 'Software Engineering', note: 'SDLC, testing & architecture' },
     ],
   },
@@ -87,7 +80,6 @@ export const SKILL_CATEGORIES = [
     items: [
       { name: 'Problem Solving', note: 'Structured debugging & DSA' },
       { name: 'Communication', note: 'Technical clarity & teamwork' },
-      { name: 'Statistics', note: 'CSBS quantitative foundation' },
       { name: 'Time Management', note: 'Balancing academics & builds' },
       { name: 'MS Excel', note: 'Tabular analysis & reporting' },
     ],
